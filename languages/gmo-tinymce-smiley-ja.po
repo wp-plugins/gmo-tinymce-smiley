@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GMO TinyMCE Smiley (Ver1.0)\n"
+"POT-Creation-Date: 2014-07-05 11:35+0900\n"
+"PO-Revision-Date: 2014-07-05 11:36+0900\n"
+"Last-Translator: \n"
+"Language-Team: WP Shop byGMO\n"
+"Language: japanese\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals = 1; plural = 0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../gmo-tinymce-smiley.php:109
+msgid "complete!"
+msgstr "設定が完了しました。"
+
+#: ../gmo-tinymce-smiley.php:127
+msgid "reset"
+msgstr "初期値に戻す"
+
+#: ../gmo-tinymce-smiley.php:128
+msgid "submit"
+msgstr "登録"

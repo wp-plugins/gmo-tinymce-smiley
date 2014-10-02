@@ -1,0 +1,17 @@
+.mce-smiley {
+	width: 400px;
+	zoom: 1;
+}
+.mce-smiley:after {
+	content: "";
+	display: block;
+	clear: both;
+}
+.mce-smiley > p {
+	float: left;
+	padding: 5px;
+	cursor: pointer;
+}
+.mce-smiley > p:hover {
+	background-color: #f3f3f3
+}
