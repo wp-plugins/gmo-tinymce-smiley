@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: GMO TinyMCE Smiley
-Plugin URI: http://wpshop.com
+Plugin URI: https://www.wpcloud.jp/en/themes
 Description: This is a plug-in that can be inserted emoticons easily.
 
-Version: 1.0
-Author: WP Shop byGMO
-Author URI: http://wpshop.com
+Version: 1.1
+Author: GMO WP Cloud
+Author URI: https://www.wpcloud.jp/en/
 Text Domain: gmo-tinymce-smiley
 Domain Path: /languages/
 */

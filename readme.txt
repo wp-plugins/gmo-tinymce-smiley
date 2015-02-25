@@ -2,14 +2,14 @@
 
 Plugin Name: GMO TinyMCE Smiley
 Plugin URI: 
-Author: WP Shop byGMO
-Author URI: http://www.wpshop.com
+Author: GMO WP Cloud
+Author URI: https://www.wpcloud.jp/en/
 Contributors: Takeaki Nagashima
 Donation Link: 
 Tags: Widget,TinyMCE,kaomoji,emoticons
 Requires at least: 3.8
-Tested up to: 4.0 
-Stable tag: Version 1.0 
+Tested up to: 4.1.1 
+Stable tag: Version 1.1 
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -32,7 +32,8 @@ Why you created this plugin?
     
 
 == Changelog == 
-
+= 1.1 =
+* Updated Author Profile
 
 = 1.0 =
 * Initial Release
